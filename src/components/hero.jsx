@@ -12,11 +12,13 @@ function Hero(){
             </div>
             <p>also avalable on</p>
             <div>
-                <img src="/shops.jpg" alt="amazon" />
+               <img src="/shops.jpg" alt="amazon" />
+
+
             </div>
         </div>
         <div className="two">
-            <img src="/shoe_image.png" alt="nikeshoe" />
+           <img src="/shoe_image.png" alt="nikeshoe" />
         </div>
      </div>
     );
