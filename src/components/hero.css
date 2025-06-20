@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+.maincon{
+    display: flex;
+    padding: 2rem;
+    
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+
+}
+.one h1{
+    font-size: 5rem;
+}
+.one p{
+    max-width: 404px;
+}
+.one .btn{
+    display: flex;
+   gap: 2rem;
+} 
